@@ -47,14 +47,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
-
-Make sure to update the following sections:
-
-- Project description
-- Installation instructions
-- Usage instructions
-- Dependencies (if any)
-- Contributing guidelines
-- License information
-
-Feel free to customize the README file further to suit your specific needs.
