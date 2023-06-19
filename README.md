@@ -1,6 +1,5 @@
 Sure! Here's a sample README file for GitHub that provides an overview of the Flask YouTube Media Downloader application:
 
-```
 # Flask YouTube Media Downloader
 
 Flask YouTube Media Downloader is a web application built with Flask that allows users to download audio (MP3) or video (MP4) files from YouTube.
