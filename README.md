@@ -29,7 +29,7 @@ Flask YouTube Media Downloader is a web application built with Flask that allows
 1. Start the Flask application:
 
    ```bash
-   python app.py
+   python main.py
    ```
 
 2. Access the application in your web browser at `http://localhost:5000`.
